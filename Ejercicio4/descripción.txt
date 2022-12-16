@@ -1,0 +1,11 @@
+Crear dos subclases que extiendan de Persona, con propiedades y métodos: -Estudiante y Docente.
+
+Modifico la visibilidad de las propiedades en la clase Persona, cambiando algunas a protected. Imprimimos sin error(mapeamos).
+
+Hacer un overrading del método saludar.
+
+Crear una función en persona, por ejemplo (comer) que no se pueda sobreescribir en las clases hijas.
+
+Hacer un new Persona y pensar si es lógico hacerlo
+
+Añadir un contador de objetos de clase Persona
